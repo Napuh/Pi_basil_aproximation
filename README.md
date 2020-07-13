@@ -12,6 +12,6 @@ pip install requirements.txt
 Use python to run it. This program requires the number of iterations you want to run, there is no default.
 
 ```bash
-python basil.py 10000
+python Basil.py 10000
 ```
 
