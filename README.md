@@ -7,7 +7,7 @@ Simple python script to aproximate pi using the [basil](https://en.wikipedia.org
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements.txt.
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 Use python to run it. This program requires the number of iterations you want to run, there is no default.
 
