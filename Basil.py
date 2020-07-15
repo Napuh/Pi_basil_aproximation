@@ -4,7 +4,7 @@ import os
 import time
 from tqdm import tqdm
 
-if(len(sys.argv)!=2 or type(sys.argv[0])!=int):
+if(len(sys.argv)!=2):
     print("Error interpreting arguments")
 else:
     def pi_basilea(iterations):
